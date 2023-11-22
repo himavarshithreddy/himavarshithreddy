@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, node and mangodb**
 
-- 👨‍💻 All of my projects are available at [https://himavarshithreddy.github.io/portfolio/](https://himavarshithreddy.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/himavarshithreddy](https://github.com/himavarshithreddy)
 
 - 📝 I regularly write articles on [https://futurebyte.tech/](https://futurebyte.tech/)
 
