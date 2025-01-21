@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/himavarshithreddy](https://github.com/himavarshithreddy)
 
-- 📝 I regularly write articles on [https://futurebyte.tech/](https://futurebyte.tech/)
-
 - 📫 How to reach me **himavarshithreddy@gmail.com**
 
 - ⚡ Fun fact **I think I am lazy**
@@ -18,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himavarshithreddygundam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himavarshithreddygundam" height="30" width="40" /></a>
-<a href="https://medium.com/@himavarshithreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himavarshithreddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
