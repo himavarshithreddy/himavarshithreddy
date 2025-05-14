@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himavarshithreddy&show_icons=true&locale=en" alt="himavarshithreddy" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=himavarshithreddy&theme=github-dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-generator.vercel.app/api/streak/svg?username=himavarshithreddy&from=2020-01-01&to=2025-05-14)](https://git.io/streak-stats)
