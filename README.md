@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himavarshith Reddy</h1>
-<h3 align="center">A Web developer and AI & ML Enthusiast</h3>
+<h3 align="center">A iOS & Web developer and AI & ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himavarshithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="himavarshithreddy" /> </p>
 
