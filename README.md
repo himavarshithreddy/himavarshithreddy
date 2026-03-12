@@ -7,7 +7,7 @@
 
 # Hey, I'm Hima ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=420&lines=crafting+digital+experiences;based+in+india+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=420&lines=crafting+digital+experiences;based+in+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br>
 
@@ -52,11 +52,11 @@ always learning something new
 
 <br>
 
-<img width="390" src="https://github-readme-streak-stats-eight-omega.vercel.app?user=himavarshithreddy&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=390&fire=EB5454&ring=888888&currStreakLabel=888888&sideLabels=888888&dates=888888&currStreakNum=000000&sideNums=000000" />
+<img width="390" src="https://github-readme-streak-stats-eight-omega.vercel.app?user=himavarshithreddy&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=390&fire=EB5454&ring=888888&currStreakLabel=888888&sideLabels=888888&dates=888888&currStreakNum=000000&sideNums=000000" alt="GitHub contribution streak stats" />
 
 <br>
 
-<img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himavarshithreddy&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=888888" />
+<img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himavarshithreddy&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=888888" alt="Most used programming languages" />
 
 <br><br>
 
